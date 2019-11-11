@@ -1,3 +1,3 @@
 # JavaScriptGameLab
-# Samantha Stutzman
+## Samantha Stutzman
 Grant loses every time to the user!
